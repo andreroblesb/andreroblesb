@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm André Robles
 
-<!--
-**andreroblesb/andreroblesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a second semester Data Scientist student at Tecnológico de Monterrey. I'm also a programming enthusiast.
 - 🌱 I'm currently starting to delve into techniques for evolutionary computation optimization, as this is an area of great interest to me!
 - 👯 I’m looking to collaborate with DMIC to provide them web, administrative and digital solutions, alond with my peer @NDonatti
