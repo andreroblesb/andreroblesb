@@ -6,4 +6,4 @@
 - 💬 Ask me about any computacional or data-related problem of yours you would like help on!
 - 📫 How to reach me: www.linkedin.com/in/andré-robles-bueckmann-b45217288
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I've played the piano for about 10 years now, and love Blues. Major seventh chords seem simply magical to me (I don't mind being called a poser for my choice).
+- ⚡ Fun fact: I've played the piano for about 10 years now, mostly pop and rock, but just now inquiring in blues and classical.
